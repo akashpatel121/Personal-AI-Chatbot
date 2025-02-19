@@ -142,6 +142,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: start;
-  padding:10px;
-  border:2px solid red;
+  padding: 10px;
 }
