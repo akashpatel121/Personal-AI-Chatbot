@@ -11,7 +11,7 @@ async function run() {
   const uploadResult = await fileManager.uploadFile(
     `${mediaPath}/image3.jpeg`,
     {
-      mimeType: "image/jpeg",
+      mimeType: "image1/jpg",
       displayName: "Image drawing",
     }
   );
